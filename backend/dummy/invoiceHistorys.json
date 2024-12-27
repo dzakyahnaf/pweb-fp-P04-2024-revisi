@@ -1,0 +1,22 @@
+[
+    {
+      "bill": 6000000,
+      "createdAt": "2024-12-20T10:12:23.700Z",
+      "status": "Paid",
+      "payment_id": { "$oid": "676d514db300f749a499f9ac" }
+    },
+    {
+      "bill": 1200000,
+      "createdAt": "2024-12-22T10:12:23.700Z",
+      "status": "Pending",
+      "payment_id": { "$oid": "676d514db300f749a499f9ad" }
+    },
+    {
+      "bill": 6000000,
+      "createdAt": "2024-12-19T10:12:23.700Z",
+      "status": "Paid",
+      "payment_id": { "$oid": "676d514db300f749a499f9ae" }
+      
+    }
+  ]
+  

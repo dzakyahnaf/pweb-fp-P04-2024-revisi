@@ -1,0 +1,22 @@
+[
+    {
+      "total_bill": 6000000,
+      "payment_method": "QRIS",
+      "rent_period": 3,
+      "createdAt": "2024-12-20T10:12:23.700Z"
+    },
+    {
+      "total_bill": 1200000,
+      "payment_method":"QRIS",
+      "rent_period": 6,
+      "createdAt": "2024-12-22T10:12:23.700Z"
+    },
+    {
+      "total_bill": 6000000,
+      "payment_method":"QRIS",
+      "rent_period": 3,
+      "createdAt": "2024-12-19T10:12:23.700Z"
+      
+    }
+  ]
+  
